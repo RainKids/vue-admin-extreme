@@ -29,6 +29,10 @@ const count = ref(0)
     in your IDE for a better DX
   </p>
   <p class="read-the-docs">Click on the Vite and Vue logos to learn more</p>
+  <el-button type="success"><i-ep-SuccessFilled />Success</el-button>
+  <el-button type="info"><i-ep-InfoFilled />Info</el-button>
+  <el-button type="warning"><i-ep-WarningFilled />Warning</el-button>
+  <el-button type="danger"><i-ep-WarnTriangleFilled />Danger</el-button>
 </template>
 
 <style scoped>
